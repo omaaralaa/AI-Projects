@@ -1,0 +1,6 @@
+- In this Notebook We basicaly used YOLOX-s Pre-trained model
+- We trained it on our Custom Dataset ( Colorful Fashion Dataset )
+- The dataset contains 25k + images
+- We trained it for 20 epochs only
+- You can see the image results in the notebook
+- You can see the video results following the urls in the notebook
