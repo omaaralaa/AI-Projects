@@ -4,4 +4,4 @@
 - Then basicaly we have our videos with license plate recoginized
 - After this we can put this videos in parking management system
 - Now we have the cars with it's license plate and we can track also the empty and non-empty in our parking
-  
+- You Can Check this videos for how it works : https://drive.google.com/drive/folders/1QPYAkFfRBq3rkb2zFwnTyOCNipQamETe
